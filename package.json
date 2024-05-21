@@ -12,7 +12,8 @@
   "dependencies": {
     "@ai-sdk/openai": "^0.0.13",
     "ai": "^3.1.12",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "tsx": "^4.10.5"
